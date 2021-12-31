@@ -10,7 +10,7 @@ Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 3. serve flask app
 
-Youtube Tutorial: https://youtu.be/En9vo7Ognm0
+Youtube Tutorial: https://youtu.be/XwIIzOb0ooo
 
 
 # Contact
